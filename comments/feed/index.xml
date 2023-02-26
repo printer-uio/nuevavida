@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	Comentarios para nueva vida	</title>
+	Comentarios para Urb Nueva Vida	</title>
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../../index.html</link>
-	<description></description>
-	<lastBuildDate>Thu, 09 Feb 2023 02:46:00 +0000</lastBuildDate>
+	<description>Nueva Vida</description>
+	<lastBuildDate>Sat, 25 Feb 2023 02:13:53 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.1.1</generator>
-	<item>
-		<title>
-		Comentario en ¡Hola mundo! por Un comentarista de WordPress		</title>
-		<link>./../../2023/02/08/hola-mundo/index.html#comment-1</link>
-
-		<dc:creator><![CDATA[Un comentarista de WordPress]]></dc:creator>
-		<pubDate>Thu, 09 Feb 2023 02:46:00 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=1#comment-1</guid>
-
-					<description><![CDATA[Hola, esto es un comentario.
-Para empezar a moderar, editar y borrar comentarios, por favor, visitá en el escritorio la pantalla de comentarios.
-Los avatares de los comentaristas provienen de &lt;a href=&quot;https://es.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Hola, esto es un comentario.<br />
-Para empezar a moderar, editar y borrar comentarios, por favor, visitá en el escritorio la pantalla de comentarios.<br />
-Los avatares de los comentaristas provienen de <a href="https://es.gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
